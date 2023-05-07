@@ -1,0 +1,23 @@
+{
+  "name": "typescript-scaffolding",
+  "version": "1.0.0",
+  "description": "Configuring, Compiling, and Debugging TypeScript Projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkram90/typescript-ccd.git"
+  },
+  "author": "rkram90",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rkram90/typescript-ccd/issues"
+  },
+  "homepage": "https://github.com/rkram90/typescript-ccd#readme",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
