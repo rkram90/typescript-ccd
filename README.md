@@ -42,10 +42,10 @@ Contains the full application, useful for building your own application on top o
 
 ## Docs Links
 
-### [Compilation setup in typescript](https://docs.google.com/viewer?url=https://rkramblog.files.wordpress.com/2023/05/compilation-notes.pdf)[newtab]
+### [Compilation setup in typescript](https://docs.google.com/viewer?url=https://rkramblog.files.wordpress.com/2023/05/compilation-notes.pdf)
 
-### [Reference and type declaration in typescript](https://docs.google.com/viewer?url=https://rkramblog.files.wordpress.com/2023/05/project-ref-type-declaration.pdf)[newtab]
+### [Reference and type declaration in typescript](https://docs.google.com/viewer?url=https://rkramblog.files.wordpress.com/2023/05/project-ref-type-declaration.pdf)
 
-### [Debugging typescript in VS Code](https://docs.google.com/viewer?url=https://rkramblog.files.wordpress.com/2023/05/debugging-typescript.pdf)[newtab]
+### [Debugging typescript in VS Code](https://docs.google.com/viewer?url=https://rkramblog.files.wordpress.com/2023/05/debugging-typescript.pdf)
 
-### [Setting up EsLint in typescript](https://docs.google.com/viewer?url=https://rkramblog.files.wordpress.com/2023/05/eslint-standization.pdf)[newtab]
+### [Setting up EsLint in typescript](https://docs.google.com/viewer?url=https://rkramblog.files.wordpress.com/2023/05/eslint-standization.pdf)
