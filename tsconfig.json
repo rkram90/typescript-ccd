@@ -9,5 +9,10 @@
     "include": ["src/**/*"],
     "watchOptions": {
         "excludeDirectories": ["**/node_modules","dir"]
-    }
+    },
+    "references": [
+        {
+            "path": "./src/interface"
+        },
+    ]
 }

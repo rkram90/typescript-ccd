@@ -1,7 +1,12 @@
 import { Main } from "./app/main";
-//Welcome to the typescript get started snippet
+import { defaultTicketState } from "./defaultStates";
 
-const animal: string = "Lion in under watch mode";
-console.log(animal);
-const main1 = new Main();
-console.log(main1.render());
+const renderApp = () => {
+    const rendered: string = new Main(defaultTicketState).render();
+    const appID = document.getElementById("app");
+    if(appID){
+        appID.innerHTML = rendered;
+    }
+}
+
+renderApp();
