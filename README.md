@@ -32,3 +32,6 @@ You can now open the application at the URL shown in the terminal.
 
 Contains the full application, useful for building your own application on top of it, or for reviewing the end point before attempting to recreate it yourself.
 
+### [1-compilation](https://github.com/rkram90/typescript-ccd/tree/compilation)
+
+- Base configuration: find list of tsconfig based on application  https://github.com/tsconfig/bases
